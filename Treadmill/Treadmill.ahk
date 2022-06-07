@@ -11,7 +11,7 @@ userid:="<@userid>" ; Copy user ID from discord
 webhook = false
 
 percentcheck = false
-oldlevelselect = false ; 
+oldlevelselect = true ; 
 autolog = 999 ;run for the number you selected and leave
 timebeforeleave = 120000 ; auto leave after getting ctag/ ruin in milisec
 settimer, chbn, 50
